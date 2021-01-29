@@ -2,7 +2,11 @@
   "name": "@valueswap/lib",
   "version": "1.0.1",
   "description": "📖 Solidity libraries that are shared across Valueswap contracts",
-  "author": "Value Network",
+  "author": {
+    "name": "Value Network",
+    "email": "support@valuenetwork.live",
+    "url": "https://valuenetwork.live"
+  },
   "license": "GPL-3.0-or-later",
   "repository": {
     "type": "git",
